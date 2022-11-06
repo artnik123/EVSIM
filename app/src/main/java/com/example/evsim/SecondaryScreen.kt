@@ -9,3 +9,8 @@ class SecondaryScreen : AppCompatActivity(){
         setContentView(R.layout.secondscreen)
     }
 }
+
+
+
+
+выфвфывф
